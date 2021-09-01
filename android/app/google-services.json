@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441134204294",
+    "firebase_url": "https://flutter-update-b3ab6-default-rtdb.firebaseio.com",
+    "project_id": "flutter-update-b3ab6",
+    "storage_bucket": "flutter-update-b3ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441134204294:android:dde4e0bba099bebea19807",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441134204294-l60udpk29eeo2ulttuiph4n1cj9ssis2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21kylLhrwPyOg-fQ5c45hxesjuFZRgNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441134204294-l60udpk29eeo2ulttuiph4n1cj9ssis2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
